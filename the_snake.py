@@ -155,6 +155,10 @@ def handle_keys(snake):
 
 
 def main():
+    """
+    Функция main инициализирует экземпляры классов
+    Snake и Apple и управляет игровым циклом.
+    """
     # Создаем экземпляры классов:
     snake = Snake()
     apple = Apple()
