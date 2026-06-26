@@ -1,0 +1,23 @@
+{
+  "difficulty": "Лёгкий",
+  "sound": true,
+  "high_score": 31,
+  "scores": [
+    {
+      "score": 31,
+      "date": "26.06.2026"
+    },
+    {
+      "score": 24,
+      "date": "26.06.2026"
+    },
+    {
+      "score": 19,
+      "date": "26.06.2026"
+    },
+    {
+      "score": 8,
+      "date": "26.06.2026"
+    }
+  ]
+}
